@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+
+
+    height: 16vh;
+    width: 100%;
+    background-color: #fac9c2;
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+}
+
+.logodiv{
+    height: 16vh;
+    width: 20vw;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logoimg{
+    
+    height: 12vh;
+    cursor: pointer;
+}
+.navbardiv ul{
+    list-style: none;
+    display: flex;
+    
+    height: 16vh;
+    width: 75vw;
+    align-items: center;
+    gap: 30px;
+    
+}
+
+.arrowimg{
+    height: 2vh;
+    padding-left: 2.5px;
+    
+}
+.navbardiv ul li{
+    font-family: 'Arial';
+    cursor: pointer;
+    color: #58585A;
+   
+}
+.searchicon{
+    height: 3vh;
+    cursor: pointer;
+}
+.stackicon{
+    height: 3vh;
+    cursor: pointer;
+}
+.sbicon{
+    height: 3vh;
+    cursor: pointer;
+}

@@ -1,0 +1,459 @@
+.mainbg{
+    height:105vh;
+
+}
+.mainimg{
+    height: 105vh;
+}
+.menu{
+    height: 80vh;
+    
+    
+}
+.head1{
+    height: 12vh;
+    
+    display: flex;
+    justify-content: space-around;
+    gap: 200px;
+}
+.name1{
+    height: 12vh;
+    width: 30vw;
+   
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: start;
+    font-family:'Courier New', Courier, monospace;
+    font-size: small;
+    cursor: pointer;
+}
+.feature{
+    height: 12vh;
+    width: 30vw;
+    
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: end;
+}
+featuremain1{
+    font-family: sans-serif;
+   
+}
+
+.menumaindiv{
+height: 58vh;
+
+display: flex;
+justify-content: space-around;
+}
+
+.menuimgdiv1{
+    height: 58vh;
+    width:30vw;
+   
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.cake1img{
+    height: 58vh;
+    width: 80%;
+    cursor: pointer;
+}
+.menuimgdiv2{
+    height: 58vh;
+    width:30vw;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.cake2img{
+    height: 58vh;
+    width: 90%;
+    cursor: pointer;
+}
+.menuimgdiv3{
+    height: 58vh;
+    width:30vw;
+    
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.cake3img{
+    height: 58vh;
+    width: 90%;
+    cursor: pointer;
+}
+
+.mainmenudiv2{
+    height: 15vh;
+  
+    display: flex;
+    justify-content: space-around;
+    line-height: 20px;
+    
+}
+
+.menutxtdiv1{
+    height: 15vh;
+    width:30vw;
+   
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   
+   
+}
+.caketxt1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    align-content: center;
+    font-weight: 500;
+    text-align: center;
+    te
+}
+.menutxtdiv2{
+    height: 15vh;
+    width: 30vw;
+   
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   
+}
+
+.caketxt2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    align-content: center;
+    font-weight: 500;
+    text-align: center;
+}
+.menutxtdiv3{
+    height: 15vh;
+    width:30vw;
+   
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   
+}
+.caketxt3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    align-content: center;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+.menu2{
+    height: 80vh;
+    
+    
+}
+
+
+.menumaindiv3{
+height: 58vh;
+
+display: flex;
+justify-content: space-around;
+padding-top: 30px;
+}
+
+.menuimgdiv4{
+    height: 58vh;
+    width:30vw;
+   
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.cake4img{
+    height: 58vh;
+    width: 80%;
+    cursor: pointer;
+}
+.menuimgdiv5{
+    height: 58vh;
+    width:30vw;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.cake5img{
+    height: 58vh;
+    width: 90%;
+    cursor: pointer;
+}
+.menuimgdiv6{
+    height: 58vh;
+    width:30vw;
+    
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.cake6img{
+    height: 58vh;
+    width: 90%;
+    cursor: pointer;
+}
+
+.mainmenudiv4{
+    height: 15vh;
+  
+    display: flex;
+    justify-content: space-around;
+    line-height: 20px;
+    
+}
+
+.menutxtdiv4{
+    height: 15vh;
+    width:30vw;
+   
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   
+   
+}
+.caketxt4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    align-content: center;
+    font-weight: 500;
+    text-align: center;
+    te
+}
+.menutxtdiv5{
+    height: 15vh;
+    width: 30vw;
+   
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   
+}
+
+.caketxt5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    align-content: center;
+    font-weight: 500;
+    text-align: center;
+}
+.menutxtdiv6{
+    height: 15vh;
+    width:30vw;
+   
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   
+}
+.caketxt6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    align-content: center;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.menu3{
+    height: 80vh;
+    
+    
+}
+
+
+.menumaindiv5{
+height: 58vh;
+
+display: flex;
+justify-content: space-around;
+padding-top: 30px;
+}
+
+.menuimgdiv7{
+    height: 58vh;
+    width:30vw;
+   
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.cake7img{
+    height: 58vh;
+    width: 80%;
+    cursor: pointer;
+}
+.menuimgdiv8{
+    height: 58vh;
+    width:30vw;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.cake8img{
+    height: 58vh;
+    width: 90%;
+    cursor: pointer;
+}
+.menuimgdiv9{
+    height: 58vh;
+    width:30vw;
+    
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.cake9img{
+    height: 58vh;
+    width: 90%;
+    cursor: pointer;
+}
+
+.mainmenudiv6{
+    height: 15vh;
+  
+    display: flex;
+    justify-content: space-around;
+    line-height: 20px;
+    
+}
+
+.menutxtdiv7{
+    height: 15vh;
+    width:30vw;
+   
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   
+   
+}
+.caketxt7{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    align-content: center;
+    font-weight: 500;
+    text-align: center;
+    te
+}
+.menutxtdiv8{
+    height:15vh;
+    width: 30vw;
+   
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   
+}
+
+.caketxt8{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    align-content: center;
+    font-weight: 500;
+    text-align: center;
+}
+.menutxtdiv9{
+    height: 15vh;
+    width:30vw;
+   
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   
+}
+.caketxt9{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    align-content: center;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+
+
+.footheading{
+    height: 5vh;
+    
+    width: 100%;
+    justify-items: center;
+    align-content: center;
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+.parahead{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    letter-spacing: 2px;
+
+
+}
+
+.footheading2{
+    height: 10vh;
+  
+    width: 100%;
+    
+    justify-items: center;
+    align-content: center;
+    text-align: center;
+    line-height:25px;
+}
+    
+.parahead2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    letter-spacing: 2px;
+
+}
+
+
+.footheading3{
+    height: 10vh;
+   
+    width: 100%;
+    
+    justify-items: center;
+    align-content: center;
+    text-align: center;
+    padding-top: 0px;
+    
+}
+.parahead3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+
+}
